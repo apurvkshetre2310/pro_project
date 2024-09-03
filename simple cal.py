@@ -2,8 +2,8 @@ import tkinter
 from tkinter import *
 
 root=Tk()
-root.title("Apurv Calculator")
-root.geometry("500x500+90+90")
+root.title("SIMPLE Calculator")
+root.geometry("600X600")
 root.resizable(False,False)
 root.configure(bg="#17161b")
 
