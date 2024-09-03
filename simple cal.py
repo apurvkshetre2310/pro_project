@@ -3,7 +3,7 @@ from tkinter import *
 
 root=Tk()
 root.title("SIMPLE Calculator")
-root.geometry("600X600")
+root.geometry("600x600")
 root.resizable(False,False)
 root.configure(bg="#17161b")
 
